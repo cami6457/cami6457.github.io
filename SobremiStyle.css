@@ -1,0 +1,12 @@
+body { 
+    background-image: url("./img/sub/starfalling.gif") ;
+    font-family: 'Pacifico', cursive;}
+h2  {
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+ font-family: arial; color: rgb(0, 0, 0);
+}
+p {color:aliceblue ; 
+}
+section {color:aliceblue ; 
+}
+img { background-image: url("./img/sub/kuromi and my melody.gif") ; }
